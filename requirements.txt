@@ -1,0 +1,9 @@
+asgiref
+Django
+python-decouple
+sqlparse
+tzdata
+whitenoise
+xlwt
+gunicorn
+psycopg2
